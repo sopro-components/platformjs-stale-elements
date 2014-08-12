@@ -12,6 +12,19 @@ Usage
     $ git clone git@github.com:sopro-components/platformjs-stale-elements.git
     $ cd platformjs-stale-elements
     $ npm install
+
+    $ npm install -g http-server 
+    $ #Or point the npm start script at the node_modules/ binary
+
+### Testing polymer elements on a non-Angular page
+
+    $ npm start
+    $ firefox localhost:8000
+    $ npm test
+
+### Testing polymer elements on an Angular page
+
+    $ git checkout angular
     $ npm start
     $ firefox localhost:8000
     $ npm test
