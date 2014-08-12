@@ -1,0 +1,29 @@
+{
+  "name": "platformjs-stale-elements",
+  "version": "0.0.0",
+  "description": "Demo of platform.js 0.3.5 breaking protractor 0.20.1",
+  "homepage": "https://github.com/sopro-components/platformjs-stale-elements",
+  "authors": [
+    "CambrianSrc"
+  ],
+  "main": "index.html",
+  "keywords": [
+    "societypro",
+    "polymer",
+    "protractor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#0.3.5"
+    "core-icon": "Polymer/core-icon#0.3.5",
+    "core-icons": "Polymer/core-icons#0.3.5",
+    "core-iconset": "Polymer/core-iconset#0.3.5"
+  },
+}
