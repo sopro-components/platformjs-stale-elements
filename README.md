@@ -10,6 +10,7 @@ Usage
 -----
 
     $ git clone git@github.com:sopro-components/platformjs-stale-elements.git
+    $ cd platformjs-stale-elements
     $ npm install
     $ npm start
     $ firefox localhost:8000
